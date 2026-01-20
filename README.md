@@ -5,23 +5,23 @@ This project presents an end-to-end business intelligence dashboard developed us
 ## Business Objectives
 
 • Analyze overall sales performance across outlets and item categories  
-• Identify high- and low-performing outlet types, sizes, and locations
-• Evaluate merchandising efficiency using item visibility and ratings  
+• Identify high- and low-performing outlet types, sizes, and locations  
+• Evaluate merchandising efficiency using item visibility and ratings    
 • Understand customer purchasing patterns using item attributes  
 • Compare revenue and volume contribution across market tiers  
 ## Dashboard Overview
 
-Page 1: Merchandising and Outlet Performance  
+### Page 1: Merchandising and Outlet Performance  
 This dashboard page focuses on sales distribution, product mix, and outlet-level characteristics.
 
-Key KPIs
+### Key KPIs
 
 • Total Sales: $1.20M  
 • Average Sales: $141  
 • Number of Items: 8,523  
 • Average Rating: 3.9  
 
-Analysis Covered
+### Analysis Covered
 
 • Sales trend analysis by outlet establishment year  
 • Sales contribution by outlet size (Small, Medium, High)  
@@ -30,17 +30,17 @@ Analysis Covered
 • Impact of fat content (Low Fat vs Regular) on total sales  
 • Outlet-wise comparison of sales, item count, ratings, and item visibility  
 
-Page 2: Outlet Operations and Item Profitability  
+### Page 2: Outlet Operations and Item Profitability  
 This dashboard page focuses on operational efficiency and profitability at the outlet and item level.
 
-Key KPIs
+### Key KPIs
 
 • Total Sales: $1.20M  
 • Outlet Establishments: Approximately 2,000  
 • Average Item Visibility: 0.07  
 • Total Items: 8,523  
 
-Analysis Covered
+### Analysis Covered
 
 • Revenue and volume comparison by outlet market tier  
 • Sales contribution by outlet type and outlet size  
